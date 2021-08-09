@@ -73,12 +73,3 @@ html {
 .ptext .border .trans {
   background-color: transparent;
 }
-
-.EndText {
-  padding: 20px;
-  text-align: center;
-  color: rgb(35, 204, 125);
-  font-size: 27px;
-  letter-spacing: 8px;
-  text-transform: uppercase;
-}
