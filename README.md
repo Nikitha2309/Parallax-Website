@@ -11,5 +11,5 @@ A beautiful Parallax Website created using HTML, CSS and hosted on Azure Service
 * CSS
 * Azure
 
-# [Code Drive Session](https://youtu.be/2zRC24UwFvs)
+# [Code Drive Session](https://youtu.be/2zRC24UwFvs?t=32)
 
